@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comms site!</title>
+    <link>https://flaff.uk/</link>
+    <description>Recent content on Comms site!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Aug 2025 02:16:58 -0400</lastBuildDate><atom:link href="https://flaff.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://flaff.uk/posts/my-first-post/</link>
+      <pubDate>Mon, 25 Aug 2025 02:16:58 -0400</pubDate>
+      <guid>https://flaff.uk/posts/my-first-post/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
